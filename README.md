@@ -1,4 +1,5 @@
-### Hi there 👋
+- olá sou a Ana julia Santo Reis 
+- Sou aluna de pensamento computacional do 1 ano A
 
 <!--
 **Najuh08/Najuh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
